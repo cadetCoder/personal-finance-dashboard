@@ -90,3 +90,7 @@
   color: #fff;
 }
 
+.button:hover {
+  background: #4837ff;
+  transition: all 0.3s ease;
+}
