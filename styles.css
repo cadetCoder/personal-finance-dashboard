@@ -68,6 +68,13 @@
   height: 100%;
 }
 
+#mobile-menu {
+  position: absolute;
+  top: 20%;
+  right: 5%;
+  transform: translate(5%, 20%);
+}
+
 .navbar__btn {
   display: flex;
   justify-content: center;
