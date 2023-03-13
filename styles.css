@@ -148,4 +148,11 @@
   .navbar__item {
     width: 100%;
   }
+
+  .navbar__links {
+    text-align: center;
+    padding: 2rem;
+    width: 100%;
+    display: table;
+  }
 }
