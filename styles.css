@@ -162,4 +162,8 @@
     right: 5%;
     transform: translate(5%, 20%);
   }
+
+  .navbar__btn {
+    padding-bottom: 2rem;
+  }
 }
