@@ -166,4 +166,9 @@
   .navbar__btn {
     padding-bottom: 2rem;
   }
+
+  .button {
+    display: flex;
+    justify-content: center;
+  }
 }
