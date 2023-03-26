@@ -175,4 +175,9 @@
     height: 80px;
     margin: 0;
   }
+
+  .navbar__toggle .bar {
+    display: block;
+    cursor: pointer;
+  }
 }
