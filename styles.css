@@ -180,4 +180,8 @@
     display: block;
     cursor: pointer;
   }
+
+  #mobile-menu.active .bar:nth-child(2) {
+    opacity: 0;
+  }
 }
