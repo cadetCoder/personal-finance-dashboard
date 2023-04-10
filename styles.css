@@ -239,3 +239,16 @@
   font-weight: 700;
 }
 
+.main__btn {
+  font-size: 1rem;
+  border-image: linear-gradient(to top, #f77062 0%, #fe519f 100%);
+  padding: 14px 32px;
+  border: none;
+  border-radius: 4px;
+  color: #fff;
+  margin-top: 2rem;
+  cursor: pointer;
+  position: relative;
+  transition: all 0.3s ease;
+  outline: none;
+}
