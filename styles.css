@@ -253,3 +253,10 @@
   transition: all 0.3s ease;
   outline: none;
 }
+
+.main__btn a {
+  position: relative;
+  z-index: 2;
+  color: #fff;
+  text-decoration: none;
+}
