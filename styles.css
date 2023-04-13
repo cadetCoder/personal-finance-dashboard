@@ -273,6 +273,10 @@
   border-radius: 4px;
 }
 
+.main__btn:hover {
+  color: #fff;
+}
+
 .main__btn:hover:after {
   width: 100%;
 }
