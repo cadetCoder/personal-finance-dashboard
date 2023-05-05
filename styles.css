@@ -289,3 +289,17 @@
   height: 80%;
   width: 80%;
 }
+
+/* Responsive Mobile */
+
+@media screen and (max-width: 768px) {
+  .main__container {
+    display: grid;
+    grid-template-columns: auto;
+    align-items: center;
+    justify-self: center;
+    width: 100%;
+    margin: 0 auto;
+    height: 90vh;
+  }
+}
